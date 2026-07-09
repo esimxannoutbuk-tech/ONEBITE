@@ -86,7 +86,7 @@ height: 24px;
 opacity: 1;
 line-height: 100%;
 letter-spacing: 0%;
-color: #FFB014;
+color: #ffffff;
 transition: all 0.2 linear;
 text-decoration: none;
 }
@@ -100,6 +100,7 @@ letter-spacing: 0%;
 color: #ffffff;
 transition: all 0.2 linear;
 text-decoration: none;
+color: #FFB014;
 }
 .linkas{
      font-family: Jost;
