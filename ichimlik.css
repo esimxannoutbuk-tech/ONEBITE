@@ -213,6 +213,14 @@ text-decoration: none;
 
 
 
+
+
+
+
+
+
+
+
 .menyu_card{
     width: 1240px;
 }
@@ -288,7 +296,7 @@ text-decoration: none;
 
 .card-1{
     width: 300px;
-    height: 410px;
+    height: 390px;
     border: 2px solid red;
     border-radius: 20px;
 transition: all 0.2s linear;
@@ -301,7 +309,7 @@ transition: all 0.2s linear;
 
 .menyu-img{
     width: 297px;
-    height: 250px;
+    height: 270px;
     border-radius: 20px;
 
 }
